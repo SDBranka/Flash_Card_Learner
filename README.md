@@ -10,9 +10,9 @@
 
 
 <p float="center">
-    <img src="https://github.com/SDBranka/Flash_Card_Learner/blob/main/images/Screenshot0.png" width=30% alt="app pic two" />
-    <img src="https://github.com/SDBranka/Flash_Card_Learner/blob/main/images/Screenshot1.png" width=31% alt="app pic two" />
-    <img src="https://github.com/SDBranka/Flash_Card_Learner/blob/main/images/Screenshot2.png" width=30% alt="app pic two" />
+    <img src="https://github.com/SDBranka/Flash_Card_Learner/blob/main/images/Screenshot0.png" width=30% alt="front of card" />
+    <img src="https://github.com/SDBranka/Flash_Card_Learner/blob/main/images/Screenshot1.png" width=30% alt="back of card" />
+    <img src="https://github.com/SDBranka/Flash_Card_Learner/blob/main/images/Screenshot2.png" width=30% alt="no more cards in series" />
 </p>
 
 ## Description
